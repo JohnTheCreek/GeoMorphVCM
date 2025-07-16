@@ -1,0 +1,36 @@
+# General Settings
+project_name: "GeoMorphVCM"
+experiment_name: "default_experiment"
+description: "A project for Georgian Morphologic Verb Analysis"
+version: "1.0.0"
+authors:
+  - name: "Konuralp Kizilay"
+    email: "counterpointb@gmail.com"
+# Paths
+data:
+  unimorph_main: "./data/kat_UniMorph.txt"
+  features: "../data/um_features.csv"
+  target_values: "data/um_target.csv"
+  X_train: "data/train-test-eval/X_train.json"
+  y_train: "data/train-test-eval/y_train.json"
+  X_val: "data/train-test-eval/X_val.json"
+  y_val: "data/train-test-eval/y_val.json"
+  X_test: "data/train-test-eval/X_test.json"
+  y_test: "data/train-test-eval/y_test.json"
+  
+# Model Settings
+model:
+  architecture: "seq2seq"  # or "encoder-decoder"
+  num_epochs: 40
+  batch_size: 64
+  learning_rate: 0.001
+  load_model: false
+  device: "cuda"  # or "cpu"
+  input_dim_encoder: 0  # set this value in your code
+  output_dim_decoder: 0  # set this value in your code
+  encoder_emb_dim: 100  # refer to guriel et al.
+  decoder_emb_dim: 100  # refer to guriel et al.
+  hidden_dim: 128
+  num_layers: 2
+  enc_dropout: 0.5
+  dec_dropout: 0.5

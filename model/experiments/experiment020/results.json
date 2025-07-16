@@ -1,0 +1,362 @@
+{
+  "epoch001": {
+    "training": {
+      "loss": 3.232
+    },
+    "validation": {
+      "loss": 0.1188,
+      "acc": 0.9801
+    }
+  },
+  "epoch002": {
+    "training": {
+      "loss": 2.6397
+    },
+    "validation": {
+      "loss": 2.5706,
+      "acc": 0.2565
+    }
+  },
+  "epoch003": {
+    "training": {
+      "loss": 2.4832
+    },
+    "validation": {
+      "loss": 2.5706,
+      "acc": 0.2565
+    }
+  },
+  "epoch004": {
+    "training": {
+      "loss": 2.3741
+    },
+    "validation": {
+      "loss": 2.416,
+      "acc": 0.2714
+    }
+  },
+  "epoch005": {
+    "training": {
+      "loss": 2.2861
+    },
+    "validation": {
+      "loss": 2.416,
+      "acc": 0.2714
+    }
+  },
+  "epoch006": {
+    "training": {
+      "loss": 2.1986
+    },
+    "validation": {
+      "loss": 2.3017,
+      "acc": 0.2984
+    }
+  },
+  "epoch007": {
+    "training": {
+      "loss": 2.1106
+    },
+    "validation": {
+      "loss": 2.3017,
+      "acc": 0.2984
+    }
+  },
+  "epoch008": {
+    "training": {
+      "loss": 2.0461
+    },
+    "validation": {
+      "loss": 2.1852,
+      "acc": 0.3215
+    }
+  },
+  "epoch009": {
+    "training": {
+      "loss": 1.9686
+    },
+    "validation": {
+      "loss": 2.1852,
+      "acc": 0.3215
+    }
+  },
+  "epoch010": {
+    "training": {
+      "loss": 1.9081
+    },
+    "validation": {
+      "loss": 2.0997,
+      "acc": 0.3304
+    }
+  },
+  "epoch011": {
+    "training": {
+      "loss": 1.8505
+    },
+    "validation": {
+      "loss": 2.0997,
+      "acc": 0.3304
+    }
+  },
+  "epoch012": {
+    "training": {
+      "loss": 1.7881
+    },
+    "validation": {
+      "loss": 2.0008,
+      "acc": 0.355
+    }
+  },
+  "epoch013": {
+    "training": {
+      "loss": 1.721
+    },
+    "validation": {
+      "loss": 2.0008,
+      "acc": 0.355
+    }
+  },
+  "epoch014": {
+    "training": {
+      "loss": 1.6795
+    },
+    "validation": {
+      "loss": 1.9098,
+      "acc": 0.3785
+    }
+  },
+  "epoch015": {
+    "training": {
+      "loss": 1.6163
+    },
+    "validation": {
+      "loss": 1.9098,
+      "acc": 0.3785
+    }
+  },
+  "epoch016": {
+    "training": {
+      "loss": 1.5589
+    },
+    "validation": {
+      "loss": 1.8367,
+      "acc": 0.3982
+    }
+  },
+  "epoch017": {
+    "training": {
+      "loss": 1.5054
+    },
+    "validation": {
+      "loss": 1.8367,
+      "acc": 0.3982
+    }
+  },
+  "epoch018": {
+    "training": {
+      "loss": 1.4612
+    },
+    "validation": {
+      "loss": 1.7452,
+      "acc": 0.4278
+    }
+  },
+  "epoch019": {
+    "training": {
+      "loss": 1.4115
+    },
+    "validation": {
+      "loss": 1.7452,
+      "acc": 0.4278
+    }
+  },
+  "epoch020": {
+    "training": {
+      "loss": 1.364
+    },
+    "validation": {
+      "loss": 1.6787,
+      "acc": 0.4497
+    }
+  },
+  "epoch021": {
+    "training": {
+      "loss": 1.3251
+    },
+    "validation": {
+      "loss": 1.6787,
+      "acc": 0.4497
+    }
+  },
+  "epoch022": {
+    "training": {
+      "loss": 1.2717
+    },
+    "validation": {
+      "loss": 1.6007,
+      "acc": 0.4842
+    }
+  },
+  "epoch023": {
+    "training": {
+      "loss": 1.2278
+    },
+    "validation": {
+      "loss": 1.6007,
+      "acc": 0.4842
+    }
+  },
+  "epoch024": {
+    "training": {
+      "loss": 1.1834
+    },
+    "validation": {
+      "loss": 1.5688,
+      "acc": 0.4929
+    }
+  },
+  "epoch025": {
+    "training": {
+      "loss": 1.1586
+    },
+    "validation": {
+      "loss": 1.5688,
+      "acc": 0.4929
+    }
+  },
+  "epoch026": {
+    "training": {
+      "loss": 1.1231
+    },
+    "validation": {
+      "loss": 1.482,
+      "acc": 0.5276
+    }
+  },
+  "epoch027": {
+    "training": {
+      "loss": 1.0837
+    },
+    "validation": {
+      "loss": 1.482,
+      "acc": 0.5276
+    }
+  },
+  "epoch028": {
+    "training": {
+      "loss": 1.0418
+    },
+    "validation": {
+      "loss": 1.4108,
+      "acc": 0.554
+    }
+  },
+  "epoch029": {
+    "training": {
+      "loss": 1.0277
+    },
+    "validation": {
+      "loss": 1.4108,
+      "acc": 0.554
+    }
+  },
+  "epoch030": {
+    "training": {
+      "loss": 0.9785
+    },
+    "validation": {
+      "loss": 1.3726,
+      "acc": 0.5672
+    }
+  },
+  "epoch031": {
+    "training": {
+      "loss": 0.9509
+    },
+    "validation": {
+      "loss": 1.3726,
+      "acc": 0.5672
+    }
+  },
+  "epoch032": {
+    "training": {
+      "loss": 0.9261
+    },
+    "validation": {
+      "loss": 1.2924,
+      "acc": 0.5978
+    }
+  },
+  "epoch033": {
+    "training": {
+      "loss": 0.8895
+    },
+    "validation": {
+      "loss": 1.2924,
+      "acc": 0.5978
+    }
+  },
+  "epoch034": {
+    "training": {
+      "loss": 0.8554
+    },
+    "validation": {
+      "loss": 1.2538,
+      "acc": 0.6163
+    }
+  },
+  "epoch035": {
+    "training": {
+      "loss": 0.8269
+    },
+    "validation": {
+      "loss": 1.2538,
+      "acc": 0.6163
+    }
+  },
+  "epoch036": {
+    "training": {
+      "loss": 0.8057
+    },
+    "validation": {
+      "loss": 1.2206,
+      "acc": 0.6345
+    }
+  },
+  "epoch037": {
+    "training": {
+      "loss": 0.779
+    },
+    "validation": {
+      "loss": 1.2206,
+      "acc": 0.6345
+    }
+  },
+  "epoch038": {
+    "training": {
+      "loss": 0.766
+    },
+    "validation": {
+      "loss": 1.1632,
+      "acc": 0.6555
+    }
+  },
+  "epoch039": {
+    "training": {
+      "loss": 0.7382
+    },
+    "validation": {
+      "loss": 1.1632,
+      "acc": 0.6555
+    }
+  },
+  "epoch040": {
+    "training": {
+      "loss": 0.7137
+    },
+    "validation": {
+      "loss": 1.0919,
+      "acc": 0.6818
+    }
+  }
+}

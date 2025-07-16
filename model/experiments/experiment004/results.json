@@ -1,0 +1,277 @@
+{
+  "epoch001": {
+    "training": {
+      "loss": 2.3248
+    }
+  },
+  "epoch002": {
+    "training": {
+      "loss": 1.5118
+    },
+    "validation": {
+      "loss": 1.5647,
+      "acc": 0.5171
+    }
+  },
+  "epoch003": {
+    "training": {
+      "loss": 0.8503
+    },
+    "validation": {
+      "loss": 1.5647,
+      "acc": 0.5171
+    }
+  },
+  "epoch004": {
+    "training": {
+      "loss": 0.519
+    },
+    "validation": {
+      "loss": 0.6823,
+      "acc": 0.8279
+    }
+  },
+  "epoch005": {
+    "training": {
+      "loss": 0.3138
+    },
+    "validation": {
+      "loss": 0.6823,
+      "acc": 0.8279
+    }
+  },
+  "epoch006": {
+    "training": {
+      "loss": 0.1956
+    },
+    "validation": {
+      "loss": 0.2957,
+      "acc": 0.9363
+    }
+  },
+  "epoch007": {
+    "training": {
+      "loss": 0.1205
+    },
+    "validation": {
+      "loss": 0.2957,
+      "acc": 0.9363
+    }
+  },
+  "epoch008": {
+    "training": {
+      "loss": 0.0818
+    },
+    "validation": {
+      "loss": 0.1629,
+      "acc": 0.9687
+    }
+  },
+  "epoch009": {
+    "training": {
+      "loss": 0.0588
+    },
+    "validation": {
+      "loss": 0.1629,
+      "acc": 0.9687
+    }
+  },
+  "epoch010": {
+    "training": {
+      "loss": 0.0423
+    },
+    "validation": {
+      "loss": 0.0892,
+      "acc": 0.9845
+    }
+  },
+  "epoch011": {
+    "training": {
+      "loss": 0.0319
+    },
+    "validation": {
+      "loss": 0.0892,
+      "acc": 0.9845
+    }
+  },
+  "epoch012": {
+    "training": {
+      "loss": 0.027
+    },
+    "validation": {
+      "loss": 0.0651,
+      "acc": 0.9891
+    }
+  },
+  "epoch013": {
+    "training": {
+      "loss": 0.02
+    },
+    "validation": {
+      "loss": 0.0651,
+      "acc": 0.9891
+    }
+  },
+  "epoch014": {
+    "training": {
+      "loss": 0.0159
+    },
+    "validation": {
+      "loss": 0.052,
+      "acc": 0.9922
+    }
+  },
+  "epoch015": {
+    "training": {
+      "loss": 0.015
+    },
+    "validation": {
+      "loss": 0.052,
+      "acc": 0.9922
+    }
+  },
+  "epoch016": {
+    "training": {
+      "loss": 0.0125
+    },
+    "validation": {
+      "loss": 0.0566,
+      "acc": 0.9906
+    }
+  },
+  "epoch017": {
+    "training": {
+      "loss": 0.009
+    },
+    "validation": {
+      "loss": 0.0566,
+      "acc": 0.9906
+    }
+  },
+  "epoch018": {
+    "training": {
+      "loss": 0.0072
+    },
+    "validation": {
+      "loss": 0.0555,
+      "acc": 0.9908
+    }
+  },
+  "epoch019": {
+    "training": {
+      "loss": 0.0419
+    },
+    "validation": {
+      "loss": 0.0555,
+      "acc": 0.9908
+    }
+  },
+  "epoch020": {
+    "training": {
+      "loss": 0.0088
+    },
+    "validation": {
+      "loss": 0.0323,
+      "acc": 0.9951
+    }
+  },
+  "epoch021": {
+    "training": {
+      "loss": 0.0038
+    },
+    "validation": {
+      "loss": 0.0323,
+      "acc": 0.9951
+    }
+  },
+  "epoch022": {
+    "training": {
+      "loss": 0.0027
+    },
+    "validation": {
+      "loss": 0.0272,
+      "acc": 0.996
+    }
+  },
+  "epoch023": {
+    "training": {
+      "loss": 0.0021
+    },
+    "validation": {
+      "loss": 0.0272,
+      "acc": 0.996
+    }
+  },
+  "epoch024": {
+    "training": {
+      "loss": 0.0018
+    },
+    "validation": {
+      "loss": 0.0274,
+      "acc": 0.9961
+    }
+  },
+  "epoch025": {
+    "training": {
+      "loss": 0.0228
+    },
+    "validation": {
+      "loss": 0.0274,
+      "acc": 0.9961
+    }
+  },
+  "epoch026": {
+    "training": {
+      "loss": 0.0368
+    },
+    "validation": {
+      "loss": 0.0418,
+      "acc": 0.994
+    }
+  },
+  "epoch027": {
+    "training": {
+      "loss": 0.0042
+    },
+    "validation": {
+      "loss": 0.0418,
+      "acc": 0.994
+    }
+  },
+  "epoch028": {
+    "training": {
+      "loss": 0.0021
+    },
+    "validation": {
+      "loss": 0.0286,
+      "acc": 0.9958
+    }
+  },
+  "epoch029": {
+    "training": {
+      "loss": 0.0013
+    },
+    "validation": {
+      "loss": 0.0286,
+      "acc": 0.9958
+    }
+  },
+  "epoch030": {
+    "training": {
+      "loss": 0.0011
+    },
+    "validation": {
+      "loss": 0.0309,
+      "acc": 0.9959
+    }
+  },
+  "epoch031": {
+    "training": {
+      "loss": 0.0008
+    },
+    "validation": {
+      "loss": 0.0309,
+      "acc": 0.9959
+    }
+  }
+}

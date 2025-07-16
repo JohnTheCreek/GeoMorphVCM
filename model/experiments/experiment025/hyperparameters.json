@@ -1,0 +1,6 @@
+{
+  "num_epochs": 70,
+  "batch_size": 64,
+  "learning_rate": 0.0001,
+  "hidden_dim": 64
+}
