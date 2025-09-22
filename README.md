@@ -29,7 +29,7 @@ I used the UniMorph Georgian dataset that can be found under the following link:
 
  ## Data exploration/cleaning
 
- Luckily, the UniMorph dataset is a fantastically organised dataset. The only adjustments I needed to make were to filter for verbs, since it contains multiple parts of speech and fix a scriptual error. Rows XXXX-XXXX contain the latin character *-a* which I replaced with the Georgian *-ა* to ensure smooth processing.
+ Luckily, the UniMorph dataset is a fantastically organised dataset. The only adjustments I needed to make were to filter for verbs, since it contains multiple parts of speech and fix a script related error. Rows 7602 − 8624 contain the latin character *-a* which I replaced with the Georgian *-ა* to ensure smooth processing.
 
  ## Preprocessing
 
