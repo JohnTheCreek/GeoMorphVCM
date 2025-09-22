@@ -23,7 +23,7 @@ The model was developed in 4 stages:
 - Data exploration/cleaning
 - Preprocessing
 - Train-Val-Test Split
-- Training
+- Training <br>
 I used the UniMorph Georgian dataset that can be found under the following link: https://github.com/unimorph/kat.
 
  ## Data exploration/cleaning
