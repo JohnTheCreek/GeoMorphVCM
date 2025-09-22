@@ -35,7 +35,7 @@ I used the UniMorph Georgian dataset that can be found under the following link:
 
  Here I prepare two dictionaries; one for the feature set and one for the target set. These serve the purpose of encoding the linguistic data into numeric representations to further be embedded and processed later. I decided to tokenize on a character basis. The obstacle here is that UniMorph does not readily provide a tokenizer for Georgian characters. So, I will use the mentioned dictionaries to seperate the characters and, in the case of the feature set, the grammatical tags. Then, I concatenate them in the same sequence, such that they are seperated character by character. Further, I added special tokens in form of <bos> (beggining-of-sequence), <eos> (end-of-sequence) and <pad> (padding). The structure looks as follows: 
 
- - featzure: <bos> შ, ე, უ, ძ, ლ, ი, ა ARGNO3, IND, PRS <eos>
+ - feature: <bos> შ, ე, უ, ძ, ლ, ი, ა ARGNO3, IND, PRS <eos>
  - target: <bos> შ, ე, მ, ი, ძ, ლ, ი, ა <eos>
 
 ## Train-Validation-Test-Split
